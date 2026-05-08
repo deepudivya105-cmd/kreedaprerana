@@ -1,0 +1,9 @@
+{
+  "name": "Kreeda-Prerana Scout",
+  "description": "A sports talent tracking app focused on rural sports talent scouting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
